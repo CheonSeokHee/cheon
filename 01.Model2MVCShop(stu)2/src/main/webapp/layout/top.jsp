@@ -8,7 +8,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop 추가작업 해본거 !!!!!</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
